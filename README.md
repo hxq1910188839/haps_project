@@ -1,9 +1,3 @@
 # haps_project
-echo "haps_project" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git config --global user.email "huangxueqin783@gmail.com"
-git branch -M main
-git remote add origin
-git push -u origin main
+我使用alu他有8bit輸入accum和data還有3bit輸入opcode和8bit輸出alu_out以及一個zero
+然後我將alu裝成一個top去跑partition來完成project的protocompiler systhesis
