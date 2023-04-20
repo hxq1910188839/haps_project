@@ -1,2 +1,3 @@
 # haps_project
 1.introduction：我使用alu他有8bit輸入accum和data還有3bit輸入opcode和8bit輸出alu_out以及一個zero，然後我將alu裝成一個top去跑partition來完成project的protocompiler systhesis
+在final_project.pdf
